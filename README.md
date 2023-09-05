@@ -10,7 +10,6 @@
 <path d="M37.9794 55.5468H49.6759L48.0934 60.9156H42.5892L40.6627 67.4546H46.0293L44.4469 72.7546H39.0802L37.0161 79.6377H42.7268L40.6627 85.2819H29.2414L37.9794 55.5468Z" fill="#41414D"/>
 </svg>
 
-##
 # Aplicação para conectar ONGs e ou![logo](https://github.com/Mizfema/be_a_hero_frontend_web/assets/22010172/82cef747-47ad-4c65-b9b6-a0310590e520)
 tras instituições a pessoas que tem disponibilidade para ajudar 
 
