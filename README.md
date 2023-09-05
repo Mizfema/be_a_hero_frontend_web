@@ -26,7 +26,7 @@ A 11ª edição da Semana OmniStack, ocorrida entre 23/03 e 27/03, trouxe como p
 
 Em uma semana foi desenvolvida uma aplicação do zero, dominando o backend, frontend e o mobile com uma única linguagem e uma única biblioteca de interfaces.
 
-Layout da aplicação no figma Figma.
+ [Layout]([https://github.com/](https://www.figma.com/file/2C2yvw7jsCOGmaNUDftX9n/Be-The-Hero---OmniStack-11?type=design&node-id=0-1&mode=design)) da aplicação no figma Figma.
 
 # Para rodar a aplicação
 ```` OBS: pode-se utilizar o gerenciador de pacotes npm ou o yarn para rodar os comandos abaixo ````
